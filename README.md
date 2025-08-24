@@ -1,2 +1,2 @@
 # my_django
-นี่คือ Django App เเรกขอวฉัน
+นี่คือ Django App เเรกของฉัน
